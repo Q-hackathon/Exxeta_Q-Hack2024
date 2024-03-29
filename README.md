@@ -1,7 +1,7 @@
-# Exxeta Hackathon Challenge @ Q-Hack 2024
+![Exxeta_X_Q-Summit](https://github.com/Q-hackathon/Exxeta_Q-Hack2024/assets/161318557/5a476cfa-d410-4035-9199-5fde3faa5d8d)
+# <p align="center"> Exxeta Hackathon Challenge @ Q-Hack 2024 </p>
 
 ## Hackathon Use Case: Sustainability Companion App
-
 In this hackathon, tech students are challenged to create innovative software solutions for a Sustainability Companion App. The goal is to harness the power of serverless technologies, Kubernetes, and cloud services like Azure or AWS to build scalable, efficient, and impactful applications that contribute to the sustainability of urban environments.
 
 ## Target Group
